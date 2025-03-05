@@ -2,8 +2,8 @@
 title: (FULL) Tôi ra sức trốn chạy, vẫn không thoát khỏi kiếp nạn âm hôn
 published: 2025-03-03
 description: Một ngôi làng hẻo lánh vẫn lưu giữ hủ tục âm hôn. Tôi ra sức trốn chạy, nhưng vẫn không thoát khỏi kiếp nạn này.
-tags: [Vả mặt]
-category: Vả mặt
+tags: [Linh dị]
+category: Linh dị
 draft: false
 ---
 
@@ -11,7 +11,7 @@ Một ngôi làng hẻo lánh vẫn lưu giữ hủ tục âm hôn.
 Tôi ra sức trốn chạy, nhưng vẫn không thoát khỏi kiếp nạn này.
 Tôi vốn không tin trên đời có ma, cho đến khi bị một dấu chân theo dõi…
 
- Tôi đã bị ma để mắt tới!
+Tôi đã bị ma để mắt tới!
 ...
 
 ## YouTube
